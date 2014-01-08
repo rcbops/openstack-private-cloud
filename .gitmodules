@@ -9,7 +9,7 @@
 	url = https://github.com/stackforge/cookbook-openstack-compute.git
 [submodule "cookbooks/openstack-image"]
 	path = cookbooks/openstack-image
-	url = tps://github.com/stackforge/cookbook-openstack-image.git
+	url = https://github.com/stackforge/cookbook-openstack-image.git
 [submodule "cookbooks/openstack-identity"]
 	path = cookbooks/openstack-identity
 	url = https://github.com/stackforge/cookbook-openstack-identity.git
