@@ -1,0 +1,84 @@
+[submodule "cookbooks/openstack-ops-messaging"]
+	path = cookbooks/openstack-ops-messaging
+	url = https://github.com/stackforge/cookbook-openstack-ops-messaging.git
+[submodule "cookbooks/openstack-network"]
+	path = cookbooks/openstack-network
+	url = https://github.com/stackforge/cookbook-openstack-network.git
+[submodule "cookbooks/openstack-compute"]
+	path = cookbooks/openstack-compute
+	url = https://github.com/stackforge/cookbook-openstack-compute.git
+[submodule "cookbooks/openstack-image"]
+	path = cookbooks/openstack-image
+	url = tps://github.com/stackforge/cookbook-openstack-image.git
+[submodule "cookbooks/openstack-identity"]
+	path = cookbooks/openstack-identity
+	url = https://github.com/stackforge/cookbook-openstack-identity.git
+[submodule "cookbooks/openstack-common"]
+	path = cookbooks/openstack-common
+	url = https://github.com/stackforge/cookbook-openstack-common.git
+[submodule "cookbooks/openstack-block-storage"]
+	path = cookbooks/openstack-block-storage
+	url = https://github.com/stackforge/cookbook-openstack-block-storage.git
+[submodule "cookbooks/openstack-ops-database"]
+	path = cookbooks/openstack-ops-database
+	url = https://github.com/stackforge/cookbook-openstack-ops-database.git
+[submodule "cookbooks/openstack-metering"]
+	path = cookbooks/openstack-metering
+	url = https://github.com/stackforge/cookbook-openstack-metering.git
+[submodule "cookbooks/openstack-orchestration"]
+	path = cookbooks/openstack-orchestration
+	url = https://github.com/stackforge/cookbook-openstack-orchestration.git
+[submodule "contrib/stackforge-chef-repo"]
+	path = contrib/stackforge-chef-repo
+	url = https://github.com/stackforge/openstack-chef-repo.git
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "cookbooks/selinux"]
+	path = cookbooks/selinux
+	url = https://github.com/opscode-cookbooks/selinux.git
+[submodule "cookbooks/python"]
+	path = cookbooks/python
+	url = https://github.com/poise/python.git
+[submodule "cookbooks/database"]
+	path = cookbooks/database
+	url = https://github.com/opscode-cookbooks/database.git
+[submodule "cookbooks/mysql"]
+	path = cookbooks/mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "cookbooks/postgresql"]
+	path = cookbooks/postgresql
+	url = https://github.com/opscode-cookbooks/postgresql.git
+[submodule "cookbooks/aws"]
+	path = cookbooks/aws
+	url = https://github.com/opscode-cookbooks/aws.git
+[submodule "cookbooks/xfs"]
+	path = cookbooks/xfs
+	url = https://github.com/opscode-cookbooks/xfs.git
+[submodule "cookbooks/openssl"]
+	path = cookbooks/openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "cookbooks/yum"]
+	path = cookbooks/yum
+	url = https://github.com/opscode-cookbooks/yum.git
+[submodule "cookbooks/apache2"]
+	path = cookbooks/apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
+[submodule "cookbooks/openstack-dashboard"]
+	path = cookbooks/openstack-dashboard
+	url = https://github.com/stackforge/cookbook-openstack-dashboard
+[submodule "cookbooks/rabbitmq"]
+	path = cookbooks/rabbitmq
+	url = https://github.com/opscode-cookbooks/rabbitmq.git
+[submodule "cookbooks/erlang"]
+	path = cookbooks/erlang
+	url = https://github.com/opscode-cookbooks/erlang.git
+[submodule "cookbooks/yum-epel"]
+	path = cookbooks/yum-epel
+	url = https://github.com/opscode-cookbooks/yum-epel.git
+[submodule "cookbooks/yum-erlang_solutions"]
+	path = cookbooks/yum-erlang_solutions
+	url = https://github.com/opscode-cookbooks/yum-erlang_solutions.git
